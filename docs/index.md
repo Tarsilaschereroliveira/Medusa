@@ -1,9 +1,11 @@
 ## Welcome to medusa web site
  Aqui você ira aprender um pouco sobre as historias dos mais diversos seres da mitologia greco-romana
-[image](scr)https://i.pinimg.com/236x/a4/9c/ad/a49cadba75e3be6ae40162c6022966f7.jpg
-###História da medusa
-Na mitologia grega, Medusa era uma criatura representada por uma mulher com serpentes no lugar dos cabelos, presas de bronze e asas de ouro.
-  
+[image]
+
+ MITO DA MEDUSA
+ 
+Na mitologia grega, Medusa era uma criatura representada por uma mulher com serpentes no lugar dos cabelos, presas de bronze e asas de ouro.  
+
 Simbolicamente, Medusa era trágica, solitária e figura uma mulher incapaz de amar e ser amada. Odiava os homens por ter sido seduzida, e também odiava as mulheres, pois não se conformava em ser uma criatura monstruosa.
 
 Conta o mito que Medusa foi uma sacerdotisa do templo de Atena (em algumas versões ela já era a criatura mítica, contudo, ainda não tinha sido amaldiçoada).
