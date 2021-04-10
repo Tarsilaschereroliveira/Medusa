@@ -1,7 +1,6 @@
 ## Welcome to medusa web site
  Aqui você ira aprender um pouco sobre as historias dos mais diversos seres da mitologia greco-romana
-You can use the [editor on GitHub](https://github.com/Tarsilaschereroliveira/mitologiagrega.github.medusa/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
+[image](scr)https://i.pinimg.com/236x/a4/9c/ad/a49cadba75e3be6ae40162c6022966f7.jpg
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
