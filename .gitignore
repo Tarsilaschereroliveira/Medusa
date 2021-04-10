@@ -1,6 +1,5 @@
 # ignore everything in the root except the "wp-content" directory.
 !wp-content/
-
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
 wp-content/*
@@ -21,3 +20,4 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+<p>Medusa é famosa na mitologia grega. De forma geral, ela ficou conhecida por ser um mostro ctônico terrível, do sexo feminino. Sobre sua aparência, basicamente, ela é representada com serpentes no lugar dos cabelos. Também conta com presas de bronze e asas de ouro.
