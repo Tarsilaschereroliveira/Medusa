@@ -1,6 +1,8 @@
 ## Welcome to medusa web site
  Aqui você ira aprender um pouco sobre as historias dos mais diversos seres da mitologia greco-romana
-![foto da medusa](![image](https://user-images.githubusercontent.com/80279653/114284703-34cab000-9a28-11eb-82ba-4c40d6c424c5.png)
+
+![image](https://user-images.githubusercontent.com/80279653/114284787-b1f62500-9a28-11eb-87f5-3c8e143c41cc.png)
+
 
 ### Mito da medusa
 
